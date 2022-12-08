@@ -1,5 +1,5 @@
 alipay==0.7.4
-certifi==2019.3.9
+certifi==2022.12.7
 chardet==3.0.4
 Django==2.1.7
 django-haystack==2.8.1
